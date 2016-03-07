@@ -1,0 +1,22 @@
+{
+  "name": "angular2-styleguide",
+  "main": "./lib/angular2-styleguide",
+  "version": "0.0.0",
+  "description": "Angular2 snippets and completions for Minko Gechev's StyleGuide",
+  "keywords": [
+    "Angular2",
+    "Snippets",
+    "Completions",
+    "StyleGuide"
+  ],
+  "activationCommands": {
+    "atom-workspace": "angular2-styleguide:toggle"
+  },
+  "repository": "https://github.com/d3viant0ne/angular2-atom-snippets",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
