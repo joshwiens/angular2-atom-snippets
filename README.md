@@ -3,6 +3,8 @@
 [![Angular 2 Style Guide](https://mgechev.github.io/angular2-style-guide/images/badge.svg)](https://github.com/mgechev/angular2-style-guide)
 [![Join the chat at https://gitter.im/mgechev/angular2-style-guide](https://badges.gitter.im/mgechev/angular2-style-guide.svg)](https://gitter.im/mgechev/angular2-style-guide?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
+## This is not ready for public consumption yet. Issues all have [milestones](https://github.com/d3viant0ne/angular2-atom-snippets/issues) with dates
+
 ### Official Atom Snippets Repository
 
 Given that most of us use both an editor & an IDE, every effort will be made to ensure that templates / snippets are kept consistant between the offerings supported by the Style Guide Colaborators.
