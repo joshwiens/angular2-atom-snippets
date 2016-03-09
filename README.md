@@ -25,6 +25,5 @@ Given that most of us use both an editor & an IDE, every effort will be made to 
 > The first stable release will be pushed up to the [Atom.io Package Repository](https://atom.io/packages)
 
 ##### Customizing & Extending
-//TODO
 
 More information on the topic can be found [here](https://github.com/d3viant0ne/angular2-atom-snippets/wiki)
